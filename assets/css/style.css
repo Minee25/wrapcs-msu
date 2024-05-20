@@ -243,7 +243,7 @@ nav {
 
 .card-body {
   margin-top: 60px;
-  padding: 16px; 
+  padding: 16px;
 }
 
 .card-body .card-title {
@@ -254,6 +254,15 @@ nav {
   margin-top: 10px;
   color: #ccc;
   text-align: center;
+}
+
+.card-description a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #3ea6ff;
+  text-decoration: none;
+  font-size: 18px;
 }
 
 .card-link {
@@ -319,7 +328,7 @@ footer {
 }
 
 /* Go to Top Button */
-#goToTopBtn { 
+#goToTopBtn {
   position: fixed;
   bottom: 20px;
   right: 30px;
@@ -337,7 +346,7 @@ footer {
 }
 
 #goToTopBtn:hover {
-  background-color: #555;   
+  background-color: #555;
 }
 
 /* Responsive */
