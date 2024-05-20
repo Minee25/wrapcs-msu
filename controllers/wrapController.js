@@ -53,7 +53,7 @@ wrapBoxEl.innerHTML += `
 
     <div class="card-body"> 
       <div class="card-title">
-        <h3 style="color: #ff2020;">ถ้าหากข้อมูลไม่ครบสามารถแจ้งได้ที่</h3>
+        <h3 style="color: #ff2020;">หากใส่ข้อมูลไม่ครบสามารถแจ้งได้ที่</h3>
       </div>
       <div class="card-description">
         <a href="https://www.facebook.com/profile.php?id=100013052448629" target="_blank">
